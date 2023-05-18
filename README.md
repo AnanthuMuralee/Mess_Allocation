@@ -19,8 +19,7 @@ The Admin is able to view the student and mess details.
 He is able to edit the database of students as well as the mess.
 
 
-(**Student Login credential**: username: B200712CS, password: B200712CS)
-(**Admin Login credential:**: username: A01, password: A01)
+(**Student Login credential**: (eg: username: B200712CS, password: B200712CS ) )
 
 (The virtual environment should be created and requirements should be install (using pip install)
 according to the requirements.txt file.)
